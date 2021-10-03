@@ -1,2 +1,4 @@
-# BLAST-for-probabilistic-sequences
-Modified BLAST that locally aligns a shorter query of DNA sequence to a longer probabilistic DNA sequence
+# Modified BLAST for probabilistic sequences
+### A local alignment tool for probabilistic DNA sequences
+
+Final Project for Comp 561, Computational Biology Methods and Research (Fall 2019)
